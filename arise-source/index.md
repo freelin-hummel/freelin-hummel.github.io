@@ -15,7 +15,7 @@ rss_hide:: "true"
 # Retro doesn't have to be regressive
 
 
-Arise is a static site generatodr written in Bash, designed to be a fusion of ultra-stable 90s technology and modern DevOps paradigms. Arise is designed around use cases like individual blogs and personal websites.
+Arise is a static site generatodr written in Bash, esigned to be a fusion of ultra-stable 90s technology and modern DevOps paradigms. Arise is designed around use cases like individual blogs and personal websites.
 
 Let me tell you why Arise exists. You ever seen one of those nineties zombie websites that hasn't been updated in like thirty years but is still somehow running today? [Stuff like this](http://home.mcom.com/home/welcome.html). Can you imagine a modern website lasting that long without becoming a completely broken mess?
 
